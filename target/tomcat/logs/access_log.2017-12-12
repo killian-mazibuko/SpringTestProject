@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [12/Dec/2017:12:00:39 +0200] "GET /spring-mvc/login HTTP/1.1" 500 2981 http-bio-8080-exec-8 1477
+0:0:0:0:0:0:0:1 - - [12/Dec/2017:14:28:14 +0200] "GET /spring-mvc/login HTTP/1.1" 200 401 http-bio-8080-exec-1 273
